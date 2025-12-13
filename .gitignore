@@ -8,3 +8,5 @@ output.json
 testing.py
 __pycache__/
 output.json
+abilities.json
+liq_stats_parsing.py
